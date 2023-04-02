@@ -1,4 +1,6 @@
-### Olá! Eu sou o Franklyn Borges. 👋 
+<h1>Quem sou eu:</h1>
+<p>Olá, Meu nome é Franklyn. estudo Ciencias da computação na Wyden.
+Atualmente estou foca em aperfeiçoar minha habilidades com tecnologias Front-End, mais especificamente no JS.</>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklynborges)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
